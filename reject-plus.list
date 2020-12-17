@@ -1,4 +1,5 @@
 .appsflyer.com
+.adchina.com
 .360.cn
 .360safe.com
 .shifen.com
@@ -22,8 +23,11 @@
 .mytrafficads.com
 .hilltopads.net
 .popads.net
-.adsmind.gdtimg.com
 .inmobi.com
+.inmobi.cn
+.inmobi.net
+.inmobicdn.cn
+.inmobicdn.net
 .leancloud.cn
 .cloudmobi.net
 .miaozhen.com
@@ -59,9 +63,9 @@ a1.zhanzhang.net
 a2.zhanzhang.net
 aeventlog.beacon.qq.com
 report.huatuo.qq.com
-static.ads-twitter.com
+.ads-twitter.com
 s.adroll.com
-googletagmanager.com
+.googletagmanager.com
 ads.bidstreamserver.com
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 adrecover.com
@@ -81,5 +85,7 @@ adsmind.tc.qq.com
 appcloud2.zhihu.com
 appcloud2.in.zhihu.com
 sugar.zhihu.com
+.applovin.com
+.applvn.com
 
  
