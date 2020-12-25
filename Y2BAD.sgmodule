@@ -9,6 +9,6 @@
 ^https?:\/\/.+\.youtube\.com\/ptracking - reject
 ^https?:\/\/.+\.youtube\.com\/pagead\/ - reject
 [MITM]
-hostname = *.youtubei.com, *.youtube.com, *.googleapis.com, *.googlevideo.com
+hostname = *.youtubei.com, *.youtube.com, *.googleapis.com, *.googlevideo.com, *.app-measurement.com
 [Script]
 Y2BADB = type=http-request,pattern=^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier),script-path=https://raw.githubusercontent.com/moe-lee/surge/master/y2b.js
