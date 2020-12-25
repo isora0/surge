@@ -8,7 +8,7 @@
 ^https?:\/\/.+\.youtube\.com\/get_midroll_ - reject
 ^https?:\/\/.+\.youtube\.com\/ptracking - reject
 ^https?:\/\/.+\.youtube\.com\/pagead\/ - reject
-^https?:\/\/.+\.googlevideo.com\.com\/ptracking - reject
+^https?:\/\/.+\.googlevideo\.com\/ptracking - reject
 [MITM]
 hostname = *.youtubei.com, *.youtube.com, *.googleapis.com, *.googlevideo.com, *.app-measurement.com
 [Script]
