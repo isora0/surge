@@ -7,6 +7,7 @@
 ^https?:\/\/.+\.youtube\.com\/api\/stats\/ads - reject
 ^https?:\/\/.+\.youtube\.com\/get_midroll_ - reject
 ^https?:\/\/.+\.youtube\.com\/ptracking - reject
+^https?:\/\/.+\.youtube\.com\/_get_ads - reject
 ^https?:\/\/.+\.youtube\.com\/pagead\/ - reject
 ^https?:\/\/.+\.googlevideo\.com\/ptracking - reject
 [MITM]
