@@ -18,3 +18,4 @@ DOMAIN-KEYWORD,taboola
 DOMAIN-KEYWORD,crashlytics
 DOMAIN-KEYWORD,firebase
 DOMAIN-KEYWORD,adsmind
+URL-REGEX,^https:\/\/play\.googleapis\.com\/log\/batch$
