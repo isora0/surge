@@ -19,4 +19,3 @@ DOMAIN-KEYWORD,crashlytics
 DOMAIN-KEYWORD,firebase
 DOMAIN-KEYWORD,adsmind
 URL-REGEX,^https:\/\/play\.googleapis\.com\/log\/batch$
-URL-REGEX,^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/log_event\?key=AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc$
