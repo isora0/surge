@@ -7,11 +7,11 @@ DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,netease
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,biliapi
 DOMAIN-KEYWORD,10086
 DOMAIN-KEYWORD,cnbeta
 DOMAIN-KEYWORD,jianshu
 DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,cagesblog.com
 DOMAIN-SUFFIX,163.com
@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,dcrelay.me
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
